@@ -1,0 +1,47 @@
+
+body
+{
+	width: 960px;
+	margin: 0 auto;
+	font-size: 20px;
+	background: url("Bakgrunnar/white-lily-flower-1289-1318-hd-wallpapers_REDUCED.jpg") fixed;
+}
+
+h1
+{
+	text-align: center;
+}
+
+p:first-letter
+{
+	font-size: 24px;
+}
+
+a:hover
+{
+	background-color: blue;
+	color: white;
+}
+
+ul
+{
+	text-align: center;
+	padding: 0;
+}
+
+ul li
+{	
+	display: inline-block;
+	padding: 0 60px;	
+}
+
+.tonlist ul 
+{
+	text-align: left;
+}
+
+.tonlist ul p
+{
+	margin-top: 5px;
+	margin-bottom: 25px;
+}

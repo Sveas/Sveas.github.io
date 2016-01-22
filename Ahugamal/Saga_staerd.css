@@ -1,0 +1,56 @@
+
+body
+{
+	width: 960px;
+	margin: 0 auto;
+	font-size: 20px;
+	background: url("Bakgrunnar/springtime-wallpaper-5234-5546-hd-wallpapers.jpg") fixed;
+}
+
+h1
+{
+	text-align: center;
+}
+
+p:first-letter
+{
+	font-size: 24px;
+}
+
+.right_pic
+{
+	float: right;
+}
+
+.left_pic
+{
+	float: left;
+}
+
+a:hover
+{
+	background-color: blue;
+	color: white;
+}
+
+img
+{
+	margin: 5px;
+}
+
+.clear
+{
+	clear: both;
+}
+
+ul
+{
+	text-align: center;
+	padding: 0;
+}
+
+ul li
+{	
+	display: inline-block;
+	padding: 0 60px;	
+}
